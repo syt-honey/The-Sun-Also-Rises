@@ -25,4 +25,8 @@
     * [Handout6.1](handouts/part6/chapter6-1.md)
   * [Chapter6.2](book/part6/chapter6-2.md)
     * [Handout6.2](handouts/part6/chapter6-2.md)
-
+* [The-sun-also-rises-part7](book/part7/chapter7-1.md)
+  * [Chapter7.1](book/part7/chapter7-1.md)
+    * [Handout7.1](handouts/part7/chapter7-1.md)
+  * [Chapter7.2](book/part7/chapter7-2.md)
+    * [Handout7.2](handouts/part7/chapter7-2.md)
