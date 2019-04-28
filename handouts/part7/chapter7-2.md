@@ -203,7 +203,7 @@ Today's Bonus
 
 酒吧老板弗雷德（Frédé）爱好艺术，甚至他自己也进行一些艺术创作。当时酒吧的常客如果没有钱或者不想付钱，可以用一张自己的画代替酒钱来付帐。这样弗雷德就收集了 许多著名画家未成名前的作品，其中包括了毕加索等人的作品。  
 
-![T-4](\images\handouts\part7\chapter7-2\T-4.gif)
+![T-4](\images\handouts\part7\chapter7-2\T-4.jpg)
 
 ### 爱墙（Le mur des je t’aime）
 
