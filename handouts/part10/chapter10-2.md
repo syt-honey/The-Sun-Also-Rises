@@ -15,7 +15,7 @@ concierge 来自法语，一说是从古法语的cumcerges演变而来，这个�
 
 现在的concierge不是指哪个工种，而是一个部门（礼宾部），一般在比较大型或高档的酒店才会设置这个部门，为客人提供行李、委托代办等服务，一般由行李生、门僮、机场代表、司机班组成（an employee of a multi-tenant building, such as a hotel or apartment building, who receives guests）.  
 
-![B-1](\images\handouts\part10\chapter10-1\B-1.jpg)  
+![B-1](\images\handouts\part10\chapter10-2\B-1.jpg)  
 
 ### Porter
 
@@ -23,7 +23,7 @@ porter也叫bearer, 从命名就可以知道它主要是指“行李生”（a p
 
 行李生的含义范围非常广，比如火车站负责把行李搬运上火车（to shutter luggage aboard）的就是railroad porter; 还有一种是在山区远足（mountaineering expedition）中负责挑运行李的也是porter（这个有点像我们的“挑山工”）。  
 
-![B-2](\images\handouts\part10\chapter10-1\B-2.jpg)  
+![B-2](\images\handouts\part10\chapter10-2\B-2.jpg)  
 
 ### Bellboy
 
@@ -31,7 +31,7 @@ bellboy 也称为bellpop，这是北美的说法，国际上一般称作hotel po
 
 bellboy一般都身穿特定的制服，其中最有标志性的就是他们的帽子，就叫作bellboy hat (or cap), 长下面这样↓  
 
-![B-3](\images\handouts\part10\chapter10-1\B-3.jpg)  
+![B-3](\images\handouts\part10\chapter10-2\B-3.jpg)  
 
 <br>
 
@@ -152,41 +152,41 @@ Ginkgo也可以写作Gingko（两个词发音是一样的，都读 /ˈɡɪŋkoʊ
 
 银杏作为世界五大行道树之一，在各国都饱受喜爱。银杏树高大挺拔，叶似扇形。冠大荫状，具有降温作用。叶形古雅，寿命绵长。它还是公认的无公害树种，可自然净化空气，减少大气层悬浮物含量，提高空气质量。  
 
-![T-1](\images\handouts\part10\chapter10-1\T-1.jpg)
+![T-1](\images\handouts\part10\chapter10-2\T-1.jpg)
 
 银杏适应性强，对气候土壤要求都很宽范，所以在我国东西南北大部分省区都有栽培。  
 
 在国外，银杏不仅被引种到邻近的日本和朝鲜半岛，也飘洋过海在欧美安家。美国华盛顿白宫门前大草坪的一角，就有一棵大银杏，树干需要四人才能合抱，而且它的岁数比白宫存在的年岁还要大。  
 
-![T-2](\images\handouts\part10\chapter10-1\T-2.jpg)
+![T-2](\images\handouts\part10\chapter10-2\T-2.jpg)
 
 ### 2. Linden 椴树 
 
 Linden是椴树的其中一个名字，它在英文里还可以称作lime或basswood. 椴树属植物约有80余种，主要分布在欧洲、美洲和中国。原产于欧洲的椴树被统称为欧洲椴，有欧洲小叶椴、欧洲大叶椴、欧椴和银毛椴等诸多品种，这些品种基本都是世界著名景观树种，在欧洲具有极高的知名度。  
 
-![T-3](\images\handouts\part10\chapter10-1\T-3.jpg)
+![T-3](\images\handouts\part10\chapter10-2\T-3.jpg)
 
 中国是全世界椴树种类最多的国家，南北均产，共有30余个品种。先秦时期的辽椴就以"杻"字出现在诗经中，唐朝后，椴树又被称为菩提树，成为佛家圣树，明清以后，椴树作为重要的蜜源树种，生产着皇家贡蜜。虽然椴树在中国有很深的文化渊源，却因"椴"与"断"谐音，听起来不吉利而长期进不得庭院。  
 
-![T-4](\images\handouts\part10\chapter10-1\T-4.jpg)
+![T-4](\images\handouts\part10\chapter10-2\T-4.jpg)
 
 ### 3. Sycamore 悬铃木
 
 悬铃木是落叶大乔木，是悬铃木属植物的通称，包括一球悬铃木(美国梧桐)、二球悬铃木(英国梧桐)、三球悬铃木(法国梧桐)三种。  
 
-![T-5](\images\handouts\part10\chapter10-1\T-5.jpg)
+![T-5](\images\handouts\part10\chapter10-2\T-5.jpg)
 
 悬铃木几乎具有优秀行道树的所有特征。树形高大开展，枝叶繁茂，姿态优美。易繁殖、成活率高、生长迅速，能够迅速成荫。适应性强，不择土壤，具有超强的吸收有害气体、抵抗烟尘、隔离噪音能力。  
 
 电影《怦然心动》（Flipped）里面Juli最爱的那棵树就是Sycamore啦！具体的品种就是美国梧桐哦~  
 
-![T-6](\images\handouts\part10\chapter10-1\T-6.jpg)
+![T-6](\images\handouts\part10\chapter10-2\T-6.jpg)
 
 ### 4. Horse chestnut 七叶树
 
 七叶树也叫娑罗树，它的树干挺拔耸立，树形美观，叶片浓绿肥大，冠如华盖，夏绿秋红，别具一格，开花时硕大的白色花序又似一盏华丽的烛台，蔚为奇观。是欧美及日本等地常见的行道树和庭荫树以及园景树。  
 
-![T-7](\images\handouts\part10\chapter10-1\T-7.jpg)
+![T-7](\images\handouts\part10\chapter10-2\T-7.jpg)
 
 在中国，七叶树与佛教有着很深的渊源，许多古刹名寺都有栽培，如北京卧佛寺、大觉寺中都有千年以上的七叶树。  
 
@@ -194,8 +194,8 @@ Linden是椴树的其中一个名字，它在英文里还可以称作lime或bass
 
 掌楸为古老的孑遗植物，曾有有10余种，现仅残存鹅掌揪和北美鹅掌楸两种。北美鹅掌楸于17世纪从北美引种到英国，其黄色花朵形似杯状的郁金香，故欧洲人称之为"郁金香树"，是城市中极佳的行道树。  
 
-![T-8](\images\handouts\part10\chapter10-1\T-8.jpg)
+![T-8](\images\handouts\part10\chapter10-2\T-8.jpg)
 
 中国的鹅掌楸叶形如马褂，又叫马褂木，花似郁金香，因此，它的英文名称是"Chinese Tulip Tree"，译成中文就是"中国的郁金香树"。鹅掌楸是中国特有的珍稀植物，国家二级保护植物，因播种出芽率低又屡遭滥伐，在其主要分布区已渐稀少，现已成为濒危树种。  
 
-![T-9](\images\handouts\part10\chapter10-1\T-9.jpg)
+![T-9](\images\handouts\part10\chapter10-2\T-9.jpg)
