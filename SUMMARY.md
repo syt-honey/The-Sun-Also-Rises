@@ -41,3 +41,5 @@
 * [The-sun-also-rises-part10](book/part10/chapter10-1.md)
   * [Chapter10.1](book/part10/chapter10-1.md)
     * [Handout10.1](handouts/part10/chapter10-1.md)
+  * [Chapter10.2](book/part10/chapter10-2.md)
+    * [Handout10.2](handouts/part10/chapter10-2.md)
