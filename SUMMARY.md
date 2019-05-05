@@ -43,3 +43,5 @@
     * [Handout10.1](handouts/part10/chapter10-1.md)
   * [Chapter10.2](book/part10/chapter10-2.md)
     * [Handout10.2](handouts/part10/chapter10-2.md)
+  * [Chapter10.3](book/part10/chapter10-3.md)
+    * [Handout10.3](handouts/part10/chapter10-3.md)
