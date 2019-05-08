@@ -48,3 +48,8 @@
 * [The-sun-also-rises-part11](book/part11/chapter11-1.md)
   * [Chapter11.1](book/part11/chapter11-1.md)
     * [Handout11.1](handouts/part11/chapter11-1.md)
+  * [Chapter11.2](book/part11/chapter11-2.md)
+    * [Handout11.2](handouts/part11/chapter11-2.md)
+* [The-sun-also-rises-part12](book/part12/chapter12-1.md)
+  * [Chapter12.1](book/part12/chapter12-1.md)
+    * [Handout12.1](handouts/part12/chapter12-1.md)
