@@ -53,3 +53,5 @@
 * [The-sun-also-rises-part12](book/part12/chapter12-1.md)
   * [Chapter12.1](book/part12/chapter12-1.md)
     * [Handout12.1](handouts/part12/chapter12-1.md)
+  * [Chapter12.2](book/part12/chapter12-2.md)
+    * [Handout12.2](handouts/part12/chapter12-2.md)
