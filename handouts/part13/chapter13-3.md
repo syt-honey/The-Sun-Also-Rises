@@ -175,7 +175,7 @@ Today's Bonus
 
 这个词是指接受当事人委托，并有资格在法庭上代理当事人出庭参与诉讼的律师。比lawyer更正规、更书面，与委托人（client）相对应。这个词较广泛的应用于美国，还有更正式的可以称为attorney-at-law或者counselor at law.  
 
-![T-1](\images\hanouts\part13\chapter13-3\T-1.jpg)
+![T-1](\images\handouts\part13\chapter13-3\T-1.jpg)
 
 
 ### 2. Counsel (Counsellor) 提供法律意见，法律咨询的法律顾问

@@ -196,7 +196,7 @@ Today's Bonus
 
 比如：a computerholic（计算机迷）、a cardaholic（牌迷）、a movieholic（电影迷）、a workaholic（工作狂）、a shopaholic（购物狂）、a surgiholic（整容狂）、a bookaholic（爱书狂）、a colaholic（嗜饮可乐的人）、a chocoholic（嗜吃巧克力的人）等等。  
 
-![T-1](\images\hanouts\part13\chapter13-2\T-1.gif)
+![T-1](\images\handouts\part13\chapter13-2\T-1.gif)
 
 
 ### 2. -goer
