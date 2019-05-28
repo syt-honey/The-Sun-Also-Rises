@@ -300,7 +300,7 @@ trilogy 三部曲  triple 三倍的、三部的
 例句：The blockbuster is the third installment in the film trilogy.  
 这部重磅电影是该三部曲电影中的第三部。  
 
-![T-4](\images\handouts\part18\chapter18-1\T-4.gif)
+![T-4](\images\handouts\part18\chapter18-2\T-4.gif)
 
 quadri-［拉丁］/ tetra-［希腊］  
 
