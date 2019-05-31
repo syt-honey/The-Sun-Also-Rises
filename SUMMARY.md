@@ -104,3 +104,5 @@
 * [The-sun-also-rises-part19](book/part19/chapter19-1.md)
   * [Chapter19.1](book/part19/chapter19-1.md)
     * [Handout19.1](handouts/part19/chapter19-1.md)
+  * [Chapter19.2](book/part19/chapter19-2.md)
+    * [Handout19.2](handouts/part19/chapter19-2.md)
